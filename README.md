@@ -1,16 +1,64 @@
-## Hi there 👋
+# Software Engineer / Backend Java
+ 
+## Hard Skills
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
-<!--
-**fabiovdd/fabiovdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+### Backend
+ 
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SPRING SECURITY](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![OAUTH2](https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge)
+![REDIS](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+ 
+---
+ 
+### Arquitetura
+ 
+![MICROSERVICES](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
+![API GATEWAY](https://img.shields.io/badge/API%20Gateway-FF6F00?style=for-the-badge)
+![EUREKA](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![CLEAN ARCHITECTURE](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+![CLEAN CODE](https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge)
+ 
+---
+ 
+### Banco de Dados
+ 
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ELASTICSEARCH](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
+ 
+---
+ 
+### DevOps & Ferramentas
+ 
+![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SWAGGER](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MAVEN](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![INTELLIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
+ 
+---
+ 
+### Metodologias & Gestão
+ 
+![SCRUM](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+ 
+ 
+###
+ 
+<div align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiovdd&radius=16&theme=react&area=true&order=5%22 height="300" alt="activity-graph graph"  />
+</div>
+ 
+###
